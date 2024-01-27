@@ -1,16 +1,18 @@
-# flutter_codelabs
 
-A new Flutter project.
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/16157057-9c8f-41b6-b13a-3e0106ea8f48)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/26ab6a1a-cbba-4088-be9a-6d89490cc408)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/48d91de9-d3b1-4b8c-8357-029c514d2734)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/ad92400a-cbfb-4920-918d-35d2a52c76c9)
+
+
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/3f90344e-d729-4049-b02c-6b4db0e44781)
+
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/ecaa8a6c-f0ff-4af7-bc47-6055ae282364)
+
+
+

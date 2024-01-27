@@ -19,6 +19,8 @@
 
 <p>Nos enviara un correo electronico y ahí podremos dale clic para verificarlo</p>
 
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/1e76133b-25c2-42a6-916a-ba7827bb2071)
+
 ![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/3f90344e-d729-4049-b02c-6b4db0e44781)
 
 <p>Aqui edite el nombre de la cuenta para poner mi nombre</p>

@@ -26,3 +26,17 @@
 <p>Aqui edite el nombre de la cuenta para poner mi nombre</p>
 
 ![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/ecaa8a6c-f0ff-4af7-bc47-6055ae282364)
+
+
+<p>Aqui podemos ver como se reflejan los datos enviados en nuestro firebase</p>
+
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/68162a91-449f-40b5-a78d-ad49dbeaf70b)
+
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/1fa222d2-7aa8-4fd5-add7-7ec370fb57cb)
+
+<p>Aquí se observan los mensajes dentro de la aplicación</p>
+
+![image](https://github.com/Einarr07/Flutter_codelabs/assets/96399138/b0f1c97c-ec91-49b9-82a8-8adb46fcf233)
+
+
+
